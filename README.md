@@ -1,2 +1,2 @@
-# TicTicToe
+# TicTacToe
 (Directions can be located in the PlayingField.java file)
